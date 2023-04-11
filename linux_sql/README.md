@@ -61,6 +61,7 @@ bash > crontab -e
 7. Automate `host_usage.sh` using crontab
 
 ## Architecture
+![Architecture](./assets/linux_architecture.drawio)
 
 ## Scripts
 Shell script description and usage 
@@ -121,4 +122,3 @@ SELECT * FROM host_usage;
 # Improvements
 - Handle hardware updates
 - Create website to display hardware and usage data
-- blah
