@@ -61,7 +61,7 @@ bash > crontab -e
 7. Automate `host_usage.sh` using crontab
 
 ## Architecture
-![Architecture](./assets/linux_architecture.drawio)
+![Architecture](./assets/linux_architecture.jpg)
 
 ## Scripts
 Shell script description and usage 
