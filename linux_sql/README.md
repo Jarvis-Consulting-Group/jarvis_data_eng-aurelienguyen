@@ -1,7 +1,4 @@
 # Introduction
-(about 100-150 words)
-Discuss the design of the project. What does this project/product do?
-Who are the users? What are the technologies you have used? (e.g. bash, docker, git, etc..)
 The Linux Cluster Monitoring Agent is a project that records the hardware specifications of a server as well as its resource usage on a minute by minute. The data is then stored in a PostgreSQL RDBMS for future resource planning purposes.
 
 ## Who are the users?
@@ -30,22 +27,22 @@ Start a PSQL instance using psql_docker.sh
 # stop the running psql docker container
 ./scripts/psql_docker.sh stop
 ```
-- Create tables using ddl.sql
+Create tables using ddl.sql
 ```
 # execute ddl.sql script on the database
 psql -h [psql_host] -U [psql_user] -d [db_name] -f sql/ddl.sql
 ```
-- Insert hardware specs data into the DB using host_info.sh
+Insert hardware specs data into the DB using host_info.sh
 ```
 # script usage
 ./scripts/host_info.sh [psql_host] [psql_port] [db_name] [psql_user] [psql_password]
 ```
-- Insert hardware usage data into the DB using host_usage.sh
+Insert hardware usage data into the DB using host_usage.sh
 ```
 # script usage
 ./scripts/host_usage.sh [psql_host] [psql_port] [db_name] [psql_user] [psql_password]
 ```
-- Crontab setup
+Crontab setup
 ```
 #edit crontab jobs
 bash > crontab -e
