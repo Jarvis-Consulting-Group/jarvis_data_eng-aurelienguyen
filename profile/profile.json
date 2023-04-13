@@ -1,0 +1,102 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "GPA: 3.5/4.0"
+      ],
+      "degree": "Bachelor of Arts",
+      "department": "Computer Science",
+      "duration": "Aug 2018-Apr 2022",
+      "school_name": "McGill university"
+    },
+    {
+      "awards_achievements": null,
+      "degree": "2-month training program",
+      "department": "Computer Science",
+      "duration": "Jun 2020-Jul 2020",
+      "school_name": "AI4Good Lab"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-aurelienguyen",
+  "highlighted_projects": [
+    {
+      "description": "Designed and developed a website for a tutoring company to facilitate the registration of new customers, showcase its services and provide additional information about the company to potential clients using WordPress.",
+      "git_url": null,
+      "name": "excellenceacademique.com"
+    },
+    {
+      "description": "Implemented a residual neural network using PyTorch and cleaned the data. The Android mobile app written in Java takes a picture of an object and sorts it into one of the four following categories: garbage, recycling, compost, and other with an accuracy of 82%.",
+      "git_url": "https://github.com/aurelie-nguyen/DisposeRight",
+      "name": "DisposeRight"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Implemented a Linux monitoring agent to collect hardware specifications and server resource usage of multiple Linux systems. The agent uses Bash scripts to fetch the data, and then stores them into a PostgreSQL database provisioned by Docker. To insure that the information gathered is up-to-date, Crontab is used to run the scripts automatically at a specific interval of time. SQL queries can be used on the data retrieved for analysis.",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    }
+  ],
+  "name": "Aurélie Nguyen",
+  "others": [
+    {
+      "bullets": [
+        "Powerlifting World Champion",
+        "Powerlifting Provincial Referee"
+      ],
+      "title": "Miscellaneous"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Worked on multiple projects to enhance my skill set and explore novel technologies in an agile work environment, where I collaborated with senior developers to ensure timely deliverables. My training encompassed various topics, including Bash shell scripting, Linux, Docker, RDBMS and Java.",
+      "duration": "March 2023-present",
+      "title": "Software Developer"
+    },
+    {
+      "company": "Excellence Académique",
+      "description": "Identify issues and requirements of the company and proposing effective action plans to address them. Manage tutors and clients, overseeing their performance and ensuring their satisfaction, recruit and interview potential employees, and act as a resource person for tutors and customers.",
+      "duration": "May 2020-present",
+      "title": "Vice President"
+    },
+    {
+      "company": "Intact Financial Corporation",
+      "description": "Improved and implemented new in-house and open source software applications to assist the work of data scientists in the Data Lab. Such softwares include Apache Airflow, Kubernetes, ",
+      "duration": "Sep 2021-Dec 2021",
+      "title": "AI Backend Developer Intern"
+    },
+    {
+      "company": "Flinks",
+      "description": "Built connectors that integrate Flinks' API with multiple bank websites, facilitating user authentication and access to banking information. Upgraded the developers' log analytics tool using C#, Typescript, Javascript, HTML and CSS.",
+      "duration": "May 2021-Aug 2021",
+      "title": "Software Developer Intern"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "C",
+      "HTML/CSS",
+      "Javascript",
+      "WordPress",
+      "Docker"
+    ],
+    "familiar": [
+      "Javascript",
+      "Pandas",
+      "AWS",
+      "Postman",
+      "Machine Learning"
+    ],
+    "proficient": [
+      "Java",
+      "Python",
+      "C#",
+      "Linux/Bash",
+      "RDBMS/SQL",
+      "Agile/Scrum",
+      "Git"
+    ]
+  },
+  "summary": "Having graduated from McGill University with a degree in Computer Science, I not only gained an understanding of fundamental concepts such as data structures and algorithms, but also sharpened my time management and problem-solving skills. To apply my knowledge and technical proficiency in real-world scenarios, I pursued two internships during my degree. These internships at Flinks and Intact offered me invaluable experience with the financial sector and its technological applications. At Flinks, I worked with APIs and front-end development, while at Intact, I had the opportunity to explore cutting-edge software like Apache Airflow and Kubernetes. As a competitive powerlifter, I have instilled the importance of consistent hard work and adaptability, qualities that have become integral to my professional life."
+}
