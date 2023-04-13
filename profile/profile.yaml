@@ -100,17 +100,17 @@ professional_experience:
 
 #List of education
 education: 
-  - school_name: "McGill university"
+  - school_name: "McGill University"
     duration: "Aug 2018-Apr 2022"
     degree: "Bachelor of Arts"
     department: "Computer Science"
     # optional
     awards_achievements: 
-      - "GPA: 3.5/4.0"
+
   - school_name: "AI4Good Lab"
     duration: "Jun 2020-Jul 2020"
     degree: "2-month training program"
-    department: "Computer Science"
+    department: ""
     # optional
     awards_achievements:
 
@@ -123,7 +123,7 @@ others:
 #      - "Udacity Machine Learning (2019)"
   - title: "Miscellaneous"
     bullets:
-      - "Powerlifting World Champion"
+      - "Powerlifting World Champion 2022"
       - "Powerlifting Provincial Referee"
 #  - title: "Activities/Hobbies"
 #    bullets:
