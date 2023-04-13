@@ -110,7 +110,7 @@ education:
   - school_name: "AI4Good Lab"
     duration: "Jun 2020-Jul 2020"
     degree: "2-month training program"
-    department: ""
+    department: "Machine Learning"
     # optional
     awards_achievements:
 

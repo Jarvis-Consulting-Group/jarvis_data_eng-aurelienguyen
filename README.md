@@ -36,12 +36,11 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 
 ## Education
-**McGill university (Aug 2018-Apr 2022)**, Bachelor of Arts, Computer Science
-- GPA: 3.5/4.0
+**McGill University (Aug 2018-Apr 2022)**, Bachelor of Arts, Computer Science
 
-**AI4Good Lab (Jun 2020-Jul 2020)**, 2-month training program, Computer Science
+**AI4Good Lab (Jun 2020-Jul 2020)**, 2-month training program, Machine Learning
 
 
 ## Miscellaneous
-- Powerlifting World Champion
+- Powerlifting World Champion 2022
 - Powerlifting Provincial Referee
