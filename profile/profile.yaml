@@ -1,0 +1,132 @@
+# Preferred name (Characters only)
+name: "Aurélie Nguyen"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-aurelienguyen 
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: Having graduated from McGill University with a degree in Computer Science, I not only gained an understanding of fundamental concepts such as data structures and algorithms, but also sharpened my time management and problem-solving skills. To apply my knowledge and technical proficiency in real-world scenarios, I pursued two internships during my degree. These internships at Flinks and Intact offered me invaluable experience with the financial sector and its technological applications. At Flinks, I worked with APIs and front-end development, while at Intact, I had the opportunity to explore cutting-edge software like Apache Airflow and Kubernetes. As a competitive powerlifter, I have instilled the importance of consistent hard work and adaptability, qualities that have become integral to my professional life.
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Python
+    - C#
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+  # At least 5 skills
+  competent:
+    - C
+    - HTML/CSS
+    - Javascript
+    - WordPress
+    - Docker
+  # At least 5 skills
+  familiar:
+    - Javascript
+    - Pandas
+    - AWS
+    - Postman
+    - Machine Learning
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description:  "Implemented a Linux monitoring agent to collect hardware specifications and server resource usage of multiple Linux systems. The agent uses Bash scripts to fetch the data, and then stores them into a PostgreSQL database provisioned by Docker. To insure that the information gathered is up-to-date, Crontab is used to run the scripts automatically at a specific interval of time. SQL queries can be used on the data retrieved for analysis."
+#  - name: "Core Java Apps"
+#    git_url: "/core_java"
+#    description:
+#      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+#      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+#      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+#  - name: "Springboot App"
+#    git_url: "/springboot"
+#    description: ""
+#  - name: "Python Data Analytics"
+#    git_url: "/python_data_analytics"
+#    description: ""
+#  - name: "Hadoop"
+#    git_url: "/hadoop"
+#    description: ""
+#  - name: "Spark"
+#    git_url: "/spark"
+#    description: ""
+#  - name: "Cloud/DevOps"
+#    git_url: "/cloud_devops"
+#    description: ""
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "excellenceacademique.com"
+    #URL is optional
+    git_url:
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Designed and developed a website for a tutoring company to facilitate the registration of new customers, showcase its services and provide additional information about the company to potential clients using WordPress."
+  - name: "DisposeRight"
+    git_url: https://github.com/aurelie-nguyen/DisposeRight
+    description: "Implemented a residual neural network using PyTorch and cleaned the data. The Android mobile app written in Java takes a picture of an object and sorts it into one of the four following categories: garbage, recycling, compost, and other with an accuracy of 82%."
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Software Developer"
+    company: "Jarvis"
+    duration: "March 2023-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Worked on multiple projects to enhance my skill set and explore novel technologies in an agile work environment, where I collaborated with senior developers to ensure timely deliverables. My training encompassed various topics, including Bash shell scripting, Linux, Docker, RDBMS and Java."
+  - title: "Vice President"
+    company: "Excellence Académique"
+    duration: "May 2020-present"
+    description: "Identify issues and requirements of the company and proposing effective action plans to address them. Manage tutors and clients, overseeing their performance and ensuring their satisfaction, recruit and interview potential employees, and act as a resource person for tutors and customers."
+  - title: "AI Backend Developer Intern"
+    company: "Intact Financial Corporation"
+    duration: "Sep 2021-Dec 2021"
+    description: "Improved and implemented new in-house and open source software applications to assist the work of data scientists in the Data Lab. Such softwares include Apache Airflow, Kubernetes, "
+  - title: "Software Developer Intern"
+    company: "Flinks"
+    duration: "May 2021-Aug 2021"
+    description: "Built connectors that integrate Flinks' API with multiple bank websites, facilitating user authentication and access to banking information. Upgraded the developers' log analytics tool using C#, Typescript, Javascript, HTML and CSS."
+
+#List of education
+education: 
+  - school_name: "McGill university"
+    duration: "Aug 2018-Apr 2022"
+    degree: "Bachelor of Arts"
+    department: "Computer Science"
+    # optional
+    awards_achievements: 
+      - "GPA: 3.5/4.0"
+  - school_name: "AI4Good Lab"
+    duration: "Jun 2020-Jul 2020"
+    degree: "2-month training program"
+    department: "Computer Science"
+    # optional
+    awards_achievements:
+
+#Optional section
+others:
+    #category
+#  - title: "Certificates"
+#    #list of items
+#    bullets:
+#      - "Udacity Machine Learning (2019)"
+  - title: "Miscellaneous"
+    bullets:
+      - "Powerlifting World Champion"
+      - "Powerlifting Provincial Referee"
+#  - title: "Activities/Hobbies"
+#    bullets:
+#      - "Basketball player"
+#      - "Competitive gaming"
+#      - "Volunteer, ABC Food bank: Ut enim ad minim veniam"
