@@ -40,6 +40,9 @@ jarvis_projects:
     # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
     # The project description must start with an action verb (https://bit.ly/3guO98u)
     description:  "Implemented a Linux monitoring agent to collect hardware specifications and server resource usage of multiple Linux systems. The agent uses Bash scripts to fetch the data, and then stores them into a PostgreSQL database provisioned by Docker. To insure that the information gathered is up-to-date, Crontab is used to run the scripts automatically at a specific interval of time. SQL queries can be used on the data retrieved for analysis."
+  - name: "RDBMS and SQL"
+    git_url: "/sql"
+    description: "Familiarized myself with relational databases, relational database management systems, data modeling, structured query language, and optimizations. Gained practical experience in manipulating data using DBeaver, with clubdata.sql loaded onto a PostgreSQL database deployed in a Docker container. Query results were compared with expected results for accuracy."
 #  - name: "Core Java Apps"
 #    git_url: "/core_java"
 #    description:

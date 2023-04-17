@@ -33,6 +33,11 @@
       "description": "Implemented a Linux monitoring agent to collect hardware specifications and server resource usage of multiple Linux systems. The agent uses Bash scripts to fetch the data, and then stores them into a PostgreSQL database provisioned by Docker. To insure that the information gathered is up-to-date, Crontab is used to run the scripts automatically at a specific interval of time. SQL queries can be used on the data retrieved for analysis.",
       "git_url": "/linux_sql",
       "name": "Cluster Monitor"
+    },
+    {
+      "description": "Familiarized myself with relational databases, relational database management systems, data modeling, structured query language, and optimizations. Gained practical experience in manipulating data using DBeaver, with clubdata.sql loaded onto a PostgreSQL database deployed in a Docker container. Query results were compared with expected results for accuracy.",
+      "git_url": "/sql",
+      "name": "RDBMS and SQL"
     }
   ],
   "name": "Aurélie Nguyen",

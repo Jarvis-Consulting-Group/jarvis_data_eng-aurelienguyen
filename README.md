@@ -17,6 +17,8 @@ Project source code: [https://github.com/Jarvis-Consulting-Group/jarvis_data_eng
 
 **Cluster Monitor** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-aurelienguyen/tree/master/linux_sql)]: Implemented a Linux monitoring agent to collect hardware specifications and server resource usage of multiple Linux systems. The agent uses Bash scripts to fetch the data, and then stores them into a PostgreSQL database provisioned by Docker. To insure that the information gathered is up-to-date, Crontab is used to run the scripts automatically at a specific interval of time. SQL queries can be used on the data retrieved for analysis.
 
+**RDBMS and SQL** [[GitHub](https://github.com/Jarvis-Consulting-Group/jarvis_data_eng-aurelienguyen/tree/master/sql)]: Familiarized myself with relational databases, relational database management systems, data modeling, structured query language, and optimizations. Gained practical experience in manipulating data using DBeaver, with clubdata.sql loaded onto a PostgreSQL database deployed in a Docker container. Query results were compared with expected results for accuracy.
+
 
 ## Highlighted Projects
 **excellenceacademique.com**: Designed and developed a website for a tutoring company to facilitate the registration of new customers, showcase its services and provide additional information about the company to potential clients using WordPress.
