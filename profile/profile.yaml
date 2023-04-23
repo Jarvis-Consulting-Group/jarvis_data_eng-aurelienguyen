@@ -47,7 +47,7 @@ jarvis_projects:
 #    git_url: "/core_java"
 #    description:
 #      - "Twitter App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
-#      - "JDBC App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
+#      - "JDBC App: Implemented standard CRUD (create, read, update, delete) using JDBC for connection and interaction between a Java application and a PostgreSQL database through SQL queries. The PostgreSQL database was deployed in a Docker container. The project's dependencies were managed by Maven."
 #      - "Grep App: Curabitur laoreet tristique leo, eget suscipit nisi. Sed in sodales ex. Maecenas vitae tincidunt dui, et eleifend quam."
 #  - name: "Springboot App"
 #    git_url: "/springboot"
