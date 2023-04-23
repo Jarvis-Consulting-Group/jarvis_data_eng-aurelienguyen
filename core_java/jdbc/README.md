@@ -1,5 +1,5 @@
 # Introduction
-The JDBC app project was done in order to get familiar with JDBC and data access-designed patterns such as DAO and Repository design. JDBC allows a connection between a Java application (Java 8) and a RDBMS (PostgreSQL database). The project implemented CRUD operations (create, read, update, delete) to manipulate data through SQL statements. The dependencies of this project was managed by Maven and its source code by Git
+The JDBC app project was done in order to get familiar with JDBC and data access-designed patterns such as DAO and Repository design. JDBC allows a connection between a Java application (Java 8) and a RDBMS (PostgreSQL database). The project implemented CRUD operations (create, read, update, delete) to manipulate data through SQL statements. The dependencies of this project were managed by Maven and its source code by Git.
 
 ## What are the technologies used?
 - **Git**: code management and storage
@@ -9,6 +9,7 @@ The JDBC app project was done in order to get familiar with JDBC and data access
 - **DBeaver**: database management
 - **JDBC**: connection between Java app and database
 - **MVN**: dependency management
+- **IntelliJ**: IDE
 
 
 # Implementation
