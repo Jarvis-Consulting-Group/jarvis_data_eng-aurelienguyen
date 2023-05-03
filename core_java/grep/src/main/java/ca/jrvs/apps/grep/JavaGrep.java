@@ -21,7 +21,7 @@ public interface JavaGrep {
 
   /**
    * Read a file and return all the lines
-   * FileReader is a class that provides a way to read a single character data from a a file at a time,
+   * FileReader is a class that provides a way to read a single character data from a file at a time,
    * whereas BufferedReader reads a block of characters at a time, making it more efficient.
    * Character encoding is the mapping between characters and bytes.
    * @param inputFile file to be read
